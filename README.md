@@ -63,3 +63,7 @@ Who is the Stakeholder:<br>
 
 * Create tables (spreadsheets) to illustrate the data in the dimensions – you need only sample data here.<br>
 
+4. Draw the Star Schema
+
+
+
