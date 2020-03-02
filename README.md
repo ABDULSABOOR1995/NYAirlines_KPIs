@@ -13,8 +13,8 @@ NYAirline have a number of KPI’s (Key Performance Indicators) you could consid
 ### KPI 1: Deliver a quality service
 This KPI is concerned with the quality of their service to provide a good flight experience to
 customers. In order to investigate the quality of their service they wish to investigate the outcomes
-of flights.
-Examples of the types of reports they would like are:
-• Number of flights which are delayed per year per airport
-• Number of cancelled flights per year due to the bad weather
+of flights.<br>
+Examples of the types of reports they would like are:<br>
+• Number of flights which are delayed per year per airport<br>
+• Number of cancelled flights per year due to the bad weather<br>
 You are expected to add four of our own reports to fit this KPI.
