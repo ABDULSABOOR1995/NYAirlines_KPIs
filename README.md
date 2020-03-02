@@ -40,8 +40,9 @@ Aim:
 * To understand the data expected in the star schema.
 
 1. Undertake the following exercise from the perspective of a skakeholder in your casestudy.<br>
-What is your Business:<br>
-Who is the Stakeholder:<br>
+
+* What is your Business<br>
+* Who is the Stakeholder<br>
 
 2. What is your KPI? <br>
 
