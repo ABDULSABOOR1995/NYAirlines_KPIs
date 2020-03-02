@@ -24,11 +24,8 @@ You are expected to add four of our own reports to fit this KPI.
 This KPI is concerned with ensuring that customer complaints are dealt with adequately and do not
 cause customers to not use them again. Examples of the types of reports they would like are: <br>
 * Number of customer complaints per year per airport
-* Total number of compensation per complaint type per year
-You are expected to add four of our own reports to fit this KPI.
-You may decide to come up with our own KPI. More of your own initiative with the task around this
-case study will bring you higher marks. For example you could include your own data set to
-compliment our data sets.
+* Total number of compensation per complaint type per year <br>
+You are expected to add four of our own reports to fit this KPI. You may decide to come up with our own KPI. More of your own initiative with the task around this case study will bring you higher marks. For example you could include your own data set to compliment our data sets.<br>
 * The file slights_2015_3000 contains about 3000 rows of data for flights in the year 2015.
 * The file Flights_2016_2000 contains about 2000 rows of data for 2016.
 * The complaints system data correlates to the data in flights files for 2015 and 2016*.
