@@ -32,3 +32,15 @@ You are expected to add four of our own reports to fit this KPI. You may decide 
 * The file Flights_2016_2000 contains about 2000 rows of data for 2016.
 * The complaints system data correlates to the data in flights files for 2015 and 2016*.
 * The file 'Weather data 2015 to 2016' contains weather data for those years.
+
+### DWMA- Assignment support get started 
+
+Aim:
+* To identify reports for your assignment.
+* To understand the data expected in the star schema.
+
+1. Undertake the following exercise from the perspective of a skakeholder in your casestudy.
+What is your Business:
+Who is the Stakeholder:
+
+2. What is your KPI? 
