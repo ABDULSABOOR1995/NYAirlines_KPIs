@@ -39,8 +39,27 @@ Aim:
 * To identify reports for your assignment.
 * To understand the data expected in the star schema.
 
-1. Undertake the following exercise from the perspective of a skakeholder in your casestudy.
-What is your Business:
-Who is the Stakeholder:
+1. Undertake the following exercise from the perspective of a skakeholder in your casestudy.<br>
+What is your Business:<br>
+Who is the Stakeholder:<br>
 
-2. What is your KPI? 
+2. What is your KPI? <br>
+
+3. Complete the following: <br>
+
+* List & clarify relevant business question(s) that need to be answered for the Investor<br>
+
+* What current tables and columns are required to answer questions above.<br>
+
+* What dimensions that would hold the values (attributes) identified above?<br>
+
+* Identify lowest level of granularity (for each Dimension)<br>
+
+* Identify the measures (calculations or facts) to support the business questions (your reports)<br>
+
+* Define (name, data type) suitable attributes of the Dimension tables<br>
+
+* Define (name, data type) the Fact table (keys and measures)<br>
+
+* Create tables (spreadsheets) to illustrate the data in the dimensions – you need only sample data here.<br>
+
